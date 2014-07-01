@@ -1,0 +1,78 @@
+.alarmPhoto{
+/*margin-left: auto;
+margin-right: auto;*/
+/*max-width: 700px;
+padding
+*/}
+
+
+.outer-shell{
+background-color: #505050;
+height: 300px;
+width: 600px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 90px;
+border-radius: 10%;
+position: relative;
+
+}
+
+.inner-shell{
+background-color: black;
+width: 47%;
+height: 43%;
+position: absolute;
+margin-left: 150px;
+margin-top: 81px;
+
+
+}
+.white-words{
+
+	/*color: white;*/
+	color: rgb(235, 89, 89);
+	height: 70%;
+	width: 16%;
+	margin-top: 17px;
+	padding-left: 11px;
+	padding-right: 5px;
+	float: left;
+
+}
+
+.clock-screen{
+background-color: rgba(255,0,0,0.84);
+/*float: right;*/
+height: 68%;
+width: 77%;
+float: right;
+margin-left: 52px;
+position: absolute;
+margin-top: -85px;
+
+}
+
+.screen-text{
+	/*color: white;*/
+	/*background-color: white;*/
+	font-size: 72px;
+}
+.frequencyAm{
+	color: white;
+	font-size: 11px;
+	height: 30px;
+	padding: 10px;
+	position: absolute;
+
+}
+.indicator{
+	background-color: rgb(236, 145, 145);
+	height: 10%;
+	width: 3%;
+	border-radius: 29px;
+	padding: 1%;
+
+}
+
+
